@@ -1,0 +1,76 @@
+/* * {
+    margin: 0px;
+    padding: 0px;
+} */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+
+header {
+  width: 100%;
+  padding: 15px;
+  height: 200px;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+  margin-right: 25px;
+}
+
+#appicon {
+  margin-top: 50px;
+  opacity: 0.6;
+}
+
+.headers-links {
+  color: rgba(0, 0, 0, 0.7);
+  text-decoration: none;
+  font-size: small;
+}
+
+/* main {
+  width: 50%;
+  /* margin-bottom: 350px;
+  margin: auto; */
+} */
+
+#google {
+  margin-top: 200px;
+  width: 250px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#search {
+  width: 100%;
+  height: 30px;
+  border-radius: 20px;
+}
+
+.footer-left {
+  float: left;
+}
+
+.footer-right {
+  float: right;
+}
+
+footer {
+  width: 100%;
+  /* margin-bottom: 0px; */
+  height: 100px;
+}
+
+.footer-links {
+  color: rgba(0, 0, 0, 0.7);
+  text-decoration: none;
+  font-size: small;
+}
